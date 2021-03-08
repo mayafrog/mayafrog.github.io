@@ -14,7 +14,7 @@ author: Nhan Tran
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "index"
   Education: "education"
   Experience: "experience"
   Projects: "projects"

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About me - Nhan Tran
 subtitle: A few facts about me 
 ---
 Hi! I'm using this website to help develop my web development skills but you can also use it to find out a little about me (:
