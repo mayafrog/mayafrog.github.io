@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A few facts about me 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Nhan Tran. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Willing to learn
+- Independently motivated
+- Highly organised
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have previously spent some time studying two degrees in the medical field - a Bachelor of Medical Radiation Science & a Bachelor of Medical Imaging, but I made the switch to my computer science which I am very passionate about and do not regret at all (:
