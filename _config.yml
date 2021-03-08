@@ -19,7 +19,7 @@ navbar-links:
   Experience: "experience"
   Projects: "projects"
   Contact:
-    - Phone: "tel:+61 412 738 993"
+    - Phone: "tel:+61 412 738 993/"
     - Email: "mailto:nhantran.lhnt@gmail.com/"
     - Github: "http://github.com/mayafrog/"
 
