@@ -4,7 +4,7 @@ title: Education
 subtitle: What I have been studying
 ---
 
-## University of Adelaide
+### University of Adelaide
 ####  Bachelor of Engineering (Honours) (Software)
 GPA: 6.3
 
