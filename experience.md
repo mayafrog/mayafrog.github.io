@@ -13,5 +13,7 @@ Competed against numerous teams from across the South Pacific solving a set of l
 Assisted the university during orientation week by acting as support staff
 ## Club Affiliation
 Competitive Programming Club member
+
 Computer Science Club member
+
 Open Source Collective member

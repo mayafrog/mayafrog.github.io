@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About me - Nhan Tran
+title: Nhan Tran
 subtitle: A few facts about me 
 ---
-Hi! I'm using this website to help develop my web development skills but you can also use it to find out a little about me (:
+Hi! I'm using this website to help build my web development skills but you can also use it to find out a little about me (:
 
 My name is Nhan Tran. I have the following qualities:
 
